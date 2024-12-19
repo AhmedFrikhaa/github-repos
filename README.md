@@ -19,7 +19,7 @@ The **GitHub Repositories Viewer** is a web application built with **React** and
 ### **Prerequisites**
 Ensure you have the following installed on your system:
 - Node.js (v16 or higher)
-- npm or yarn
+- npm 
 
 ### **Setup Instructions**
 1. Clone the repository:
@@ -56,10 +56,7 @@ Ensure you have the following installed on your system:
 - **Enhanced Filtering**: Add advanced filters like sorting by stars, forks, or last updated date.
 - **User Profile Display**: Display the GitHub user's profile information (avatar, bio, followers, etc.).
 - **Dark Mode Toggle**: Include a dark mode toggle for improved accessibility.
-- **Offline Support**: Use service workers to cache data and make the app accessible offline.
-- **GraphQL API**: Use the GitHub GraphQL API for more flexible and efficient data fetching.
 - **Unit Tests**: Expand the test suite to cover all components and API calls.
-- **Deployment**: Deploy the application to a live server (e.g., Netlify, Vercel).
 
 # Technologies Used
 
@@ -68,6 +65,3 @@ Ensure you have the following installed on your system:
 - **Material-UI**: For a clean and responsive design.
 - **GitHub API**: To fetch user and repository data.
 - **Jest**: For unit testing.
-
-## **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
